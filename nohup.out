@@ -1,0 +1,7 @@
+INFO:     Started server process [5448]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('192.168.0.2', 8000): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+Failed to connect to Elasticsearch.
